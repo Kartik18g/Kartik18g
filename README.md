@@ -1,14 +1,14 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/PriyaBihani/PriyaBihani/main/wave.gif" width="30px"></h4>
 
-I'm [Kartik Gupta](https://find-kartik-gupta.vercel.app/), I'm an experienced MERN stack developer when i'm not coding 👨🏼‍💻 i'm either working out 💪🏼 or talking to my favourite person😈.
+I'm [Kartik Gupta](https://find-kartik-gupta.vercel.app/), I'm an experienced MERN stack developer when i'm not coding 👨🏼‍💻 i'm either working out 💪🏼 or talking to my favourite person🦹🏻‍.
 
 **Projects i've worked on...**
 
 - <div>
     <img width="250" height="100" align='left' src="https://secure.enthu.ai/static/media/logo.2a3c4dd9.png" >
-    ... as a <strong>Software Developer Intern</strong> at Dailykit where I have been assisting in the (design and) development of the he Only Trend-Responsive Food-Tech Solution You'll Ever Need Dailykit.
+    ... as a <strong>Software Developer Intern</strong> at Enthu.AI i worked on building new features for the application like admin.enthu.ai , call analysis screens, authentication system and automatic reports. Along with building new features i also worked on fixing bugs in the application.
     <br />
-    <strong>View: </strong> <a href="https://www.dailykit.org/" >Dailykit.org</a> 
+    <strong>View: </strong> <a href="https://enthu.ai" >Enthu.ai</a> 
     <br /> 
     <br /> 
   </div>
