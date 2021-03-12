@@ -5,7 +5,7 @@ I'm [Kartik Gupta](https://find-kartik-gupta.vercel.app/), I'm an experienced ME
 **Projects i've worked on...**
 
 - <div>
-    <img width="150" height="150" align='left' src="https://media-exp1.licdn.com/dms/image/C4D0BAQHHbN_8tw_6bA/company-logo_200_200/0/1598933243841?e=1623888000&v=beta&t=aB9nU4pgn4TQP02lNWWGVdAAF2PqzN_7uZ0GNTsUfa0" >
+    <img width="100" height="100" align='left' src="https://media-exp1.licdn.com/dms/image/C4D0BAQHHbN_8tw_6bA/company-logo_200_200/0/1598933243841?e=1623888000&v=beta&t=aB9nU4pgn4TQP02lNWWGVdAAF2PqzN_7uZ0GNTsUfa0" >
     ... as a <strong>Software Developer Intern</strong> at Enthu.AI i worked on building new features for the application like admin.enthu.ai , call analysis screens, authentication system, System logs and automatic reports. Along with building new features i also worked on fixing bugs in the application.
     <br />
     <strong>View: </strong> <a href="https://enthu.ai" >Enthu.ai</a> 
