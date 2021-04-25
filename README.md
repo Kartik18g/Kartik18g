@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/PriyaBihani/PriyaBihani/main/wave.gif" width="30px"></h4>
 
-I'm [Kartik Gupta](https://find-kartik-gupta.vercel.app/), I'm an experienced MERN stack developer when i'm not coding 👨🏼‍💻 i'm either working out 💪🏼 or talking to my favourite person🦹🏻‍.
+I'm [Kartik Gupta](https://find-kartik-gupta.vercel.app/), I'm an experienced MERN stack developer when i'm not coding 👨🏼‍💻 i'm either working out 💪🏼 or talking to my favourite person [🦹🏻‍](https://know-priya-bihani.vercel.app/).
 
 **Projects i've worked on...**
 
