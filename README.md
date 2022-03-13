@@ -13,7 +13,7 @@ I'm [Kartik Gupta](https://find-kartik-gupta.vercel.app/), I'm an experienced ME
     <br /> 
   </div>
   
-  - <div>
+- <div>
     <img width="100" height="100" align='left' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" >
     ... Google Summer of Code 2022 student developer @Rocket.Chat, created a Rocket.Chat app that integrates seamlessly with the ecosystem and converts audio messages to text messages <a href="https://github.com/RocketChat/Apps.SpeechToText" >Link to app</a>
     <br />
@@ -22,7 +22,7 @@ I'm [Kartik Gupta](https://find-kartik-gupta.vercel.app/), I'm an experienced ME
     <br /> 
   </div>
   
-  - <div>
+- <div>
     <img width="100" height="100" align='left' src="https://enthu.ai/wp-content/uploads/2020/08/black_white_bg.png" >
     ... as a <strong>Software Developer Intern</strong> at Enthu.AI i worked on building new features for the application like admin.enthu.ai , call analysis screens, authentication system, System logs and automatic reports. Along with building new features i also worked on fixing bugs in the application.
     <br />
