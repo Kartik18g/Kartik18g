@@ -8,10 +8,12 @@ I'm [Kartik Gupta](https://find-kartik-gupta.vercel.app/), I'm an experienced ME
     <img width="100" height="100" align='left' src="https://uploads-ssl.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" >
     ... Full stack instructor and Developer at devtown working on a SAAS product for the community.
     <br />
-    <strong>View: </strong> <a href="https://enthu.ai" >Enthu.ai</a> 
+    <strong>View: </strong> <a href="https://devtown.in" >Devtown</a> 
     <br /> 
     <br /> 
   </div>
+  
+   <br /> 
   
 - <div>
     <img width="100" height="100" align='left' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" >
@@ -21,7 +23,7 @@ I'm [Kartik Gupta](https://find-kartik-gupta.vercel.app/), I'm an experienced ME
     <br /> 
     <br /> 
   </div>
-  
+   <br /> 
 - <div>
     <img width="100" height="100" align='left' src="https://enthu.ai/wp-content/uploads/2020/08/black_white_bg.png" >
     ... as a <strong>Software Developer Intern</strong> at Enthu.AI i worked on building new features for the application like admin.enthu.ai , call analysis screens, authentication system, System logs and automatic reports. Along with building new features i also worked on fixing bugs in the application.
