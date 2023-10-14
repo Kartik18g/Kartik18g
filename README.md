@@ -1,53 +1,3 @@
-<h4> Hey there! <img src="https://raw.githubusercontent.com/PriyaBihani/PriyaBihani/main/wave.gif" width="30px"></h4>
-
-I'm Kartik Gupta
-
-**Projects i've worked on...**
-
-- <div>
-    <img width="100" height="100" align='left' src="https://uploads-ssl.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" >
-    ... Full stack instructor and Developer at devtown working on a SAAS product for the community.
-    <br />
-    <strong>View: </strong> <a href="https://devtown.in" >Devtown</a> 
-    <br /> 
-    <br /> 
-  </div>
-  
-   <br /> 
-  
-- <div>
-    <img width="100" height="100" align='left' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" >
-    ... Google Summer of Code 2022 student developer @Rocket.Chat, created a Rocket.Chat app that integrates seamlessly with the ecosystem and converts audio messages to text messages <a href="https://github.com/RocketChat/Apps.SpeechToText" >Link to app</a>
-    <br />
-    <strong>View: </strong> <a href="https://enthu.ai" >Enthu.ai</a> 
-    <br /> 
-    <br /> 
-  </div>
-   <br /> 
-- <div>
-    <img width="100" height="100" align='left' src="https://enthu.ai/wp-content/uploads/2020/08/black_white_bg.png" >
-    ... as a <strong>Software Developer Intern</strong> at Enthu.AI i worked on building new features for the application like admin.enthu.ai , call analysis screens, authentication system, System logs and automatic reports. Along with building new features i also worked on fixing bugs in the application.
-    <br />
-    <strong>View: </strong> <a href="https://enthu.ai" >Enthu.ai</a> 
-    <br /> 
-    <br /> 
-  </div>
-
-
-  ***
-
-**Languages and Tools:**
-
-<p align="center">
-
-  <div align="center">
-  
- <code><img height="40" src="https://banner2.cleanpng.com/20180426/gtw/kisspng-computer-icons-computer-terminal-command-5ae16a502f3540.7455852615247222561934.jpg"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code> 
-
-  </div>
-  </p>
-
----
 
 **Github Stats:**
 
@@ -74,7 +24,3 @@ I'm Kartik Gupta
     Show ❤️ by starring repositories you find good! 
   </p>
 </p>
-
-
-<div align="right">
-  
